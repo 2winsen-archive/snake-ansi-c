@@ -1,23 +1,17 @@
-snake-ansi-c
-============
+# snake-ansi-c
 
-Summary
--------
+## Summary
 Linux console snake game (with multiplayer) written on Ansi C unisng NCurses Lib
 
-Preconditions
--------------
-Linux console
-Ncurses lib
+## Preconditions
+1. Linux console
+2. Ncurses lib
 
-Installation
-------------
+## Installation
 NA
 
-Usage
------
-NA
+## Usage
+./snake
 
-Contributing
-------------
+## Contributing
 2winsen
