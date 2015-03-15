@@ -8,8 +8,6 @@ Linux console snake game (with multiplayer) written on Ansi C unisng NCurses Lib
 2. Ncurses lib
 
 ## Installation
-NA
-
 ## Usage
 ./snake
 
